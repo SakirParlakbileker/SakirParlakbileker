@@ -1,5 +1,5 @@
 # 💫 About Me:
-🗺️ Hello World<br>🔭 I'm currently working on React Software Development<br>🔬 I'm currently learning more everyday <br>👨‍🔬💬 Ask me about React , HTML , CSS
+🗺️ Hello World<br>🔭 I'm currently working on React Software Development<br>🔬 I'm currently learning more everyday(React Native) <br>👨‍🔬💬 Ask me about React , HTML , CSS
 
 
 ## 🌐 Socials:
